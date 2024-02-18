@@ -3,7 +3,7 @@
 > 如果有任何问题，欢迎通过邮箱联系我：zhangzfy@mail.ustc.edu.cn
 
   
-> This repository stores the assignments and labs of Computer Organization course of USTC(011145.02).
+> This repository stores the assignments and labs of Mathematical Logic course of USTC(CS2002.02).
 >
 > Have any questions? Contact me via zhangzfy@mail.ustc.edu.cn
 
